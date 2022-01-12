@@ -1,1 +1,1 @@
-# sunsquare
+# SunSquare
