@@ -5,6 +5,7 @@ import {
     Route,
     Link
 } from 'react-router-dom';
+
 import Welcome from './Welcome';
 import Announcement from './announcement';
 import UserForm from './login-up';
@@ -13,8 +14,6 @@ import SignIn from './SignIn';
 import UserLog from './User-log';
 
 const Header = () => {
-  
-    
     const ads = [
         {   
             type: "On Rent",
